@@ -1,0 +1,87 @@
+﻿@model PMD_CRUD.Models.VModel.VModel
+
+<h4
+    >Edit Product</h4>
+<hr />
+<div class="row">
+    <div>
+        <form asp-action="Edit" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly"></div>
+            <input type="hidden" asp-for="PId" />
+            <div>
+                <label asp-for="PName"></label>
+                <input asp-for="PName" />
+                <span asp-validation-for="PName"></span>
+            </div>
+            <div>
+                <label asp-for="Price"></label>
+                <input asp-for="Price" />
+                <span asp-validation-for="Price"></span>
+            </div>
+            <div>
+                <div>
+                    <label asp-for="ImageFile"></label>
+                    <input asp-for="ImageFile" type="file" />
+                    <span asp-validation-for="ImageFile"></span>
+                </div>
+                <div>
+                    <img src="@Model.PImage" width="40" height="40" />
+                </div>
+            </div>
+            <div>
+                <label asp-for="Quantity"></label>
+                <input asp-for="Quantity" />
+                <span asp-validation-for="Quantity"></span>
+            </div>
+            <div>
+                <label asp-for="PDate"></label>
+                <input asp-for="PDate" type="date" />
+                <span asp-validation-for="PDate"></span>
+            </div>
+            <div>
+                <label><input asp-for="IsAvailable" /> @Html.DisplayNameFor(model => model.IsAvailable)</label>
+            </div>
+            <div class="mt-2">
+                <div>
+                    <button class=" addMore" type="button">Add More</button>
+                </div>
+                <div class="con">
+                    @foreach (var i in Model.Details)
+                    {
+                        <div class="d-flex rc my-1">
+                            <div class="me-2">
+                                <select asp-items="ViewBag.Category" id="CId"
+                                        name="CId">
+                                    <option value="@i.Category.CId">---@i.Category.CName---</option>
+                                </select>
+                            </div>
+                            <div>
+                                <button class="remove"type="button">Remove</button>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+            <div>
+                <input type="submit" value="Save" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    $(document).ready(()=>{
+          $(".addMore").click(()=>{
+              $.ajax({
+                  url:"/Product/AddCategory",
+                  type:"get",
+                  success:(d)=>{
+                      $(".con").append(d);
+                  },
+              });
+          });
+      });
+      $(document).on("click",".remove",(e)=>{
+          $(e.currentTarget).closest(".rc").remove();
+      })
+</script> 

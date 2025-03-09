@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\models\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\models\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/PMD_CRUD_DB/True/SqlTable/dbo.Categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\models\\vmodel\\vmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\models\\vmodel\\vmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\pmd_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\pmd_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\views\\product\\_addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\views\\product\\_addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|c:\\users\\ussl\\desktop\\nur\\nur\\nur\\.net core\\pmd_crud\\pmd_crud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2717E107-FB72-4FCA-AF23-1A0E8B07171C}|PMD_CRUD\\PMD_CRUD.csproj|solutionrelative:pmd_crud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Categories.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/PMD_CRUD_DB/True/SqlTable/dbo.Categories.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/PMD_CRUD_DB/True/SqlTable/dbo.Categories.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-05T05:35:09.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "PMD_CRUD\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "PMD_CRUD\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T01:27:04.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "PMD_CRUD\\Data\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "PMD_CRUD\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:14:25.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "PMD_CRUD\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "PMD_CRUD\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T02:24:34.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PMD_CRUD\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "PMD_CRUD\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T02:49:11.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VModel.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Models\\VModel\\VModel.cs",
+              "RelativeDocumentMoniker": "PMD_CRUD\\Models\\VModel\\VModel.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Models\\VModel\\VModel.cs",
+              "RelativeToolTip": "PMD_CRUD\\Models\\VModel\\VModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:09:39.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Models\\Details.cs",
+              "RelativeDocumentMoniker": "PMD_CRUD\\Models\\Details.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Models\\Details.cs",
+              "RelativeToolTip": "PMD_CRUD\\Models\\Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:08:14.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PMD_CRUD\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PMD_CRUD\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAwDEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T01:27:13.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "PMD_CRUD\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Models\\Category.cs",
+              "RelativeToolTip": "PMD_CRUD\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:06:59.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PMD_CRUD\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Models\\Product.cs",
+              "RelativeToolTip": "PMD_CRUD\\Models\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:06:05.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "PMD_CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Program.cs",
+              "RelativeToolTip": "PMD_CRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:13:13.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PMD_CRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\PMD_CRUD.csproj",
+              "RelativeDocumentMoniker": "PMD_CRUD\\PMD_CRUD.csproj",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\PMD_CRUD.csproj",
+              "RelativeToolTip": "PMD_CRUD\\PMD_CRUD.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T01:03:53.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_addCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Views\\Product\\_addCategory.cshtml",
+              "RelativeDocumentMoniker": "PMD_CRUD\\Views\\Product\\_addCategory.cshtml",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Views\\Product\\_addCategory.cshtml",
+              "RelativeToolTip": "PMD_CRUD\\Views\\Product\\_addCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T02:06:51.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "PMD_CRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\appsettings.json",
+              "RelativeToolTip": "PMD_CRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T00:13:09.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PMD_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PMD_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAACwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T02:30:33.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PMD_CRUD\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\NUR\\NUR\\NUR\\.NET CORE\\PMD_CRUD\\PMD_CRUD\\appsettings.Development.json",
+              "RelativeToolTip": "PMD_CRUD\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T00:13:06.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

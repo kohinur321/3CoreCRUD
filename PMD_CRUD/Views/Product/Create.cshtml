@@ -1,0 +1,70 @@
+﻿@model PMD_CRUD.Models.VModel.VModel
+
+<h4>Create Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly"></div>
+            <div>
+                <label asp-for="PName"></label>
+                <input asp-for="PName"/>
+                <span asp-validation-for="PName"></span>
+            </div>
+            <div>
+                <label asp-for="Price"></label>
+                <input asp-for="Price" />
+                <span asp-validation-for="Price"></span>
+            </div>
+            <div>
+                <label asp-for="ImageFile"></label>
+                <input asp-for="ImageFile" type="file" />
+                <span asp-validation-for="ImageFile"></span>
+            </div>
+            <div>
+                <label asp-for="Quantity"></label>
+                <input asp-for="Quantity" />
+                <span asp-validation-for="Quantity"></span>
+            </div>
+            <div>
+                <label asp-for="PDate"></label>
+                <input asp-for="PDate" type="date" />
+                <span asp-validation-for="PDate"></span>
+            </div>
+            <div>
+                <label>
+                    <input  asp-for="IsAvailable" />
+                    @Html.DisplayNameFor(model => model.IsAvailable)
+                </label>
+            </div>
+            <div >
+                <div>
+                    <button type="button" class="addMore">Add More</button>
+                </div>
+                <div class="con">
+                    <partial name="_addCategory"></partial>
+                </div>
+            </div>
+            <div>
+                <input type="submit" value="Create" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    $(document).ready(()=>{
+          $(".addMore").click(()=>{
+              $.ajax({
+                  url:"/Product/AddCategory",
+                  type:"get",
+                  success:(d)=>{
+                      $(".con").append(d);
+                  },
+              });
+          });
+      });
+      $(document).on("click",".remove",(e)=>{
+          $(e.currentTarget).closest(".rc").remove();
+      })
+</script> 

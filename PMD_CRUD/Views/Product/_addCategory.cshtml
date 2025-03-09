@@ -1,0 +1,12 @@
+﻿@model PMD_CRUD.Models.Category
+<div class="d-flex rc my-1">
+    <div class="me-2">
+        <select asp-items="ViewBag.Category" asp-for="CId" id="CId" name="CId"
+                class="form-control">
+            <option value="">----Select Category----</option>
+        </select>
+    </div>
+    <div>
+        <button class="btn btn-danger remove" type="button">Remove</button>
+    </div>
+</div>
